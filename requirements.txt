@@ -1,0 +1,20 @@
+# Core dependencies
+requests>=2.28
+beautifulsoup4>=4.11
+newspaper3k>=0.2.8
+lxml>=4.9
+lxml_html_clean>=0.4
+
+# NLP
+spacy>=3.5
+nltk>=3.8
+vaderSentiment>=3.3
+
+# Geocoding
+geopy>=2.3
+
+# Data handling
+pandas>=1.5
+
+# Twitter scraping (optional)
+# ntscraper>=0.3

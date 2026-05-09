@@ -55,6 +55,18 @@ python main.py --max-pages 3 --no-geocoding
 | **Interactive Dashboard** | HTML report with Chart.js + Leaflet maps |
 | **CLI Interface** | Configurable pipeline with --demo, --scrape-only, etc. |
 
+## 📸 Demo Results
+
+> Generated with `python main.py --demo` using sample road safety articles from Hyderabad.
+
+### Dashboard Overview — Stat Cards, Severity & Sentiment Charts, Top Keywords
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Incident Map & Analyzed Articles Table
+
+![Dashboard Map and Table](screenshots/dashboard_map_table.png)
+
 ## 📈 Output
 
 The system generates in the `output/` folder:

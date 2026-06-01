@@ -3,7 +3,7 @@
 **Natural Language Processing for the Classification of Severity of Road Accidents from Social Media & News Articles — Hyderabad, India**
 
 > **Design Project (EEE F376)** — Birla Institute of Technology and Science, Pilani — Hyderabad Campus  
-> **Under the supervision of** Prof. Bandhan Majumdar  
+> **Under the supervision of** Prof. Bandhan Majumdar  (majumdar@hyderabad.bits-pilani.ac.in)
 > **By** Harshal Bhambhani (ID: 2022A3PS1809H)
 
 ---
